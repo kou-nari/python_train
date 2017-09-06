@@ -1,10 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 30 11:33:36 2017
-
-@author: koichiro
-"""
 import pandas as pd
 import numpy as np
 from sklearn import linear_model
